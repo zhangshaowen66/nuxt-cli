@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="16px" viewBox="0 0 22 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>CN</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="22" height="16" rx="2.0952381"></rect>
+        <rect id="path-3" x="0.523809524" y="0.533333333" width="20.952381" height="14.9333333" rx="1.04761905"></rect>
+    </defs>
+    <g id="C2C交易" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="广告详情1" transform="translate(-1228.000000, -28.000000)">
+            <g id="Group-27" transform="translate(818.000000, 23.000000)">
+                <g id="Group-25">
+                    <g id="CN" transform="translate(410.000000, 5.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="background" fill="#CF2338" xlink:href="#path-1"></use>
+                        <path d="M2.0952381,5.33333333 L5.31868132,7.3025641 L4.19047619,10.6666667 L6.80952381,8.17777778 L9.42857143,10.6666667 L8.3003663,7.3025641 L11.5238095,5.33333333 L7.85714286,5.33333333 L5.76190476,5.33333333 L2.0952381,5.33333333 Z M8.38095238,5.33333333 L5.23809524,5.33333333 L6.80952381,2.13333333 L8.38095238,5.33333333 Z" id="star" fill="#FFD128" mask="url(#mask-2)"></path>
+                        <path d="M12.5714286,3.2 L12.5714286,4.26666667 L13.6190476,4.26666667 L13.6190476,3.2 L12.5714286,3.2 L12.5714286,3.2 Z M13.6190476,5.33333333 L13.6190476,6.4 L14.6666667,6.4 L14.6666667,5.33333333 L13.6190476,5.33333333 L13.6190476,5.33333333 Z M13.6190476,7.46666667 L13.6190476,8.53333333 L14.6666667,8.53333333 L14.6666667,7.46666667 L13.6190476,7.46666667 L13.6190476,7.46666667 Z M12.5714286,9.6 L12.5714286,10.6666667 L13.6190476,10.6666667 L13.6190476,9.6 L12.5714286,9.6 L12.5714286,9.6 Z" id="circles" fill="#F8B92A" mask="url(#mask-2)"></path>
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <use id="overlay" stroke-opacity="0.156646286" stroke="#2F343A" stroke-width="1.04761905" xlink:href="#path-3"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
