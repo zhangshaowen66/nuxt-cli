@@ -25,7 +25,7 @@ $ npm run generate:test
 框架使用的是[bootstrap-vue](https://bootstrap-vue.js.org/docs/components/tabs/)
 国际化 使用[nuxt-i18n-module](https://npm.taobao.org/package/nuxt-i18n-module)
 ```
-  #目前还没有研究出 setLanguage() 方法是怎么使用的，欢迎各位分享谈论，我是强行改变params值来实现语言切换的
+  #目前还没有研究出 setLanguage() 方法是怎么使用的，欢迎分享讨论，我是强行改变params值来实现语言切换的
 ```
 接口调用
 ```
