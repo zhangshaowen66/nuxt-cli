@@ -29,7 +29,7 @@
     "vue-slide-mini": "^1.0.4"
   },
   "devDependencies": {
-    "node-sass": "^4.11.0",
+    "node-sass": "^7.0.0",
     "nodemon": "^1.18.9",
     "sass-loader": "^7.1.0",
     "uglifyjs-webpack-plugin": "^1.3.0",
