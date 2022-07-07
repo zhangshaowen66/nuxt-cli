@@ -20,7 +20,7 @@
     "bootstrap-vue": "^2.0.0-rc.13",
     "cross-env": "^5.2.0",
     "lodash": "^4.17.11",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "nuxt": "^2.4.0",
     "nuxt-i18n-module": "^0.2.7",
     "uglify-js": "^3.5.15",
